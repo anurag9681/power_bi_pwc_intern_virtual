@@ -137,8 +137,8 @@
 </p>
 
 <ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/anurag9681" target="_blank">github.com/yourusername</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anurag-yadav-a1848a30a" target="_blank">linkedin.com/in/yourprofile</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/anurag9681" target="_blank">github.com/anurag9681</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://in.linkedin.com/in/anurag-yadav-a1848a30a" target="_blank">linkedin.com/in/anurag-yadav-a1848a30a</a></li>
 </ul>
 
 <hr />
