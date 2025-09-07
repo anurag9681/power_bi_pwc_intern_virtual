@@ -83,24 +83,24 @@
 <ul>
   <li><strong>📁 Dataset Provided/</strong>
     <ul>
-      <li>Call Centre Data.xlsx</li>
-      <li>Customer Churn Data.csv</li>
-      <li>Diversity HR Data.xlsx</li>
+      <li>Call-Centre-Data.xlsx</li>
+      <li>Churn-Dataset.xlsx</li>
+      <li>Diversity-Inclusion-Data.xlsx</li>
     </ul>
   </li>
 
   <li><strong>📁 My Solution/</strong>
     <ul>
-      <li>My_Dashboard.pbix</li>
-      <li>My_Recommendations.pdf</li>
-      <li>My_DAX_Measures.txt</li>
+      <li>call center.pbix</li>
+      <li>churn dataset.pbix</li>
+      <li>employee diversity my.pbix</li>
     </ul>
   </li>
 
-  <li><strong>📁 PwC Solution/</strong>
+  <li><strong>📁 Forage Solution/</strong>
     <ul>
-      <li>PwC_Official_Solution.pbix</li>
-      <li>PwC_Insights_Document.pdf</li>
+      <li>Call Center Solutionpwc.pbix</li>
+      <li>Diversity & Inclusion_pwc</li>
     </ul>
   </li>
 </ul>
