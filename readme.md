@@ -1,8 +1,5 @@
 <h1 align="center">💼 PwC Switzerland - Power BI Virtual Case Experience (Forage)</h1>
 
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212897246-d43f67c3-04e5-4c3f-94b5-3b8a5f0b1f6a.png](https://cdn.cookielaw.org/logos/f13f2198-97ab-4c25-a5cd-0fca8ada2e21/01967d0f-0708-70bc-950e-b361469038b1/34993003-7f26-4439-bc55-5bcb8fba3cf8/pwc_logo.png)" width="400" alt="PwC Logo" />
-</p>
 
 <p align="center">
   <i>A hands-on data analytics project using Power BI, completed through the Forage platform.</i>
